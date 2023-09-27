@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOyUp2aIt25yYJk10khKkOoRl/TCkdQ0jZrGgRBXQhJZzn52tjEHjjYTPQv5K4PpPk4pbeKksiSHP85N34BHwg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\marrob\\Documents\\Training\\BusBoardBackEnd\\BusBoardBackEnd\\BusBoardBackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marrob\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\marrob\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\marrob\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\marrob\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\marrob\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
