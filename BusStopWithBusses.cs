@@ -7,8 +7,8 @@ namespace BusBoard
 
         public BusStopWithBusses(string id, List<Bus> busses)
         {
-            this.naptanId = id;
-            this.nextBusses = busses;
+            naptanId = id;
+            nextBusses = busses;
         }
 
     }
